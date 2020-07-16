@@ -1,4 +1,4 @@
-[![travis](https://travis-ci.org/GITHUB_USERNAME/biodemo2.svg?branch=master)](https://travis-ci.org/GITHUB_USERNAME/biodemo2)
+[![travis](https://travis-ci.org/AnnaSyme/biodemo2.svg?branch=master)](https://travis-ci.org/AnnaSyme/biodemo2)
 
 # Overview 
 
